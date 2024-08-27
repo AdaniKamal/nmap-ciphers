@@ -4,4 +4,5 @@ This tools will scan for ciphers and then will output the result together with t
 # WORK IN PROGRESS
 
 | Version | Description |
+|---------|-------------|
 |nmap14.py|output the ciphers status from ciphersuite info for all ciphers found for the particular IP/URL and followed by TLS & ciphers for the particular IP/URL|
