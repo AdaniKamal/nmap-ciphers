@@ -4,7 +4,7 @@
 |Version|Output|
 |-------|------|
 |nmap.py|<img width="577" alt="Screenshot 2024-08-28 at 7 44 19 PM" src="https://github.com/user-attachments/assets/8c375fcf-cd99-4a99-a672-8bff0ac24f99">|
-|nmap2.py|No huge diff|
+|nmap2.py|same result as nmap4.py|
 |nmap3.py|<img width="515" alt="Screenshot 2024-08-28 at 7 43 13 PM" src="https://github.com/user-attachments/assets/afaa98d4-88fc-4ac9-8c26-c4210f23c442">|
 |nmap4.py|<img width="342" alt="Screenshot 2024-08-28 at 7 43 29 PM" src="https://github.com/user-attachments/assets/1bd882eb-cf43-4a94-9d99-691d15654e94">|
 |nmap5.py|<img width="349" alt="Screenshot 2024-08-28 at 7 43 49 PM" src="https://github.com/user-attachments/assets/ce188185-78e1-4d11-8b1a-d1b523de1dc7">|
