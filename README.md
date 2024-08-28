@@ -25,13 +25,20 @@ see example <b>iplist.txt</b>
 
 <img width="427" alt="Screenshot 2024-08-28 at 8 27 48 PM" src="https://github.com/user-attachments/assets/b3163b80-9414-45f9-a6c9-16e492dd9dc0">
 
+## Version
+
+|Current Version|Descriptions|
+|---------------|------------|
+|nmap17.py|Output combine all ciphers for port and hosts in one line (Eg: 80,443 site.com)|
+|nmap18.py|Fix nmap17.py|
+
 ## Improvement
 
 |No|Details|Status|
 |--|-------|------|
-|1|output the result for more port in different line. Eventhough stated in IP List in one line. <br/>For example: <br/>IP/URL: Insecure.Org<br/>Port: 80<br/><br/>IP/URL:Insecure.Org<br/>Port: 443||
+|1|output the result for more port in different line. Eventhough stated in IP List in one line.|`Done`|
 |2|If no result. then try ping and telnet.||
 |3|Output the result as below<br/>For example: <br/>IP/URL: Insecure.Org <br/>Port: 80 <br/>Cipher status: No <br/>Ping: Host reachable / Host not reachable <br/>Telnet: Port closed / Port open <br/>||
-|4|Remove "colorama", make color code static.||
+|4|Remove "colorama", make color code static.|`Done`|
 
 
