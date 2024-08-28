@@ -8,17 +8,17 @@ Usage:
 python nmap_ciphers.py iplist.txt
 ```
 
-iplist.txt should be in this form
+<b>iplist.txt</b> should be in this form
 - <port> <IP/URL>
 
-For example
+For example (without -)
 - 443 google.com
 - 443 Insecure.Org
 
-# RESULT
+## RESULT
+<img width="377" alt="Screenshot 2024-08-28 at 8 27 35 PM" src="https://github.com/user-attachments/assets/af45c866-0a1b-4a15-bb73-fa598c17e313">
 
-| Version | Description |
-|---------|-------------|
-|nmap16.py|Achieved for 1 IP/URL|
+<img width="427" alt="Screenshot 2024-08-28 at 8 27 48 PM" src="https://github.com/user-attachments/assets/b3163b80-9414-45f9-a6c9-16e492dd9dc0">
+
 
 
