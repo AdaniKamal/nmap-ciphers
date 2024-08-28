@@ -18,8 +18,7 @@
 |nmap13.py|<img width="784" alt="Screenshot 2024-08-28 at 7 41 57 PM" src="https://github.com/user-attachments/assets/c88028f7-f092-4d86-b21a-a1fae3c82b28">|
 |nmap14.py|<img width="430" alt="Screenshot 2024-08-28 at 7 10 31 AM" src="https://github.com/user-attachments/assets/2555f5cb-dc54-4ec9-b0c9-9643aabd5d79"> <img width="322" alt="Screenshot 2024-08-28 at 7 10 39 AM" src="https://github.com/user-attachments/assets/eb4216aa-a4dc-49d0-90ea-0d165119444b">|
 |nmap15.py|No huge diff|
-|nmap16.py|<img width="411" alt="Screenshot 2024-08-28 at 7 41 16 PM" src="https://github.com/user-attachments/assets/238f3e32-00ee-488f-be91-c29dc44085fc">|
-|nmap17.py|<img width="542" alt="Screenshot 2024-08-28 at 7 41 05 PM" src="https://github.com/user-attachments/assets/1497734c-54e6-4f10-a8ff-6da3c71dc15e">|
+|nmap16.py|<img width="509" alt="Screenshot 2024-08-28 at 8 06 44 PM" src="https://github.com/user-attachments/assets/d64ae4dd-54e9-45ae-b2c9-0df91fd99181">|
 
 
 
