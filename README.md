@@ -1,8 +1,15 @@
 # nmap-ciphers
 This tools will scan for ciphers and then will output the result together with the ciphers used &amp;cipher status from ciphersuite info.
 
+## Purposes
+To do the validation for <br/>
+<b>`Finding`</b> : `SSL Weak Cipher Suites Supported`
+
 ## Problem Statement
-The current cipher checker scanner is effective for analyzing SSL/TLS cipher suites for individual IP addresses or a small number of IPs. However, when faced with a larger set of IPs—such as 15 to 25 or more—the process becomes inefficient and time-consuming. Manually running `nmap` scans for each IP address to collect cipher suites and then determining the security status of each cipher (whether they are strong or weak) requires significant effort and can lead to delays. This manual process poses challenges in scalability, accuracy, and the ability to respond quickly to security assessments, necessitating a more automated and streamlined approach to handle multiple IP addresses efficiently.
+The current cipher checker scanner is effective for analyzing SSL/TLS cipher suites for individual IP addresses or a small number of IPs. <br/>
+However, when faced with a larger set of IPs—such as 15 to 25 or more—the process becomes inefficient and time-consuming. <br/>
+Manually running `nmap` scans for each IP address to collect cipher suites and then determining the security status of each cipher (whether they are strong or weak) requires significant effort and time. <br/>
+This manual process poses challenges to respond quickly.
 
 ## How to use
 
