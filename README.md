@@ -1,5 +1,5 @@
 # nmap-ciphers
-This tools will scan for ciphers and then will output the result together with the ciphers used &amp;cipher status from ciphersuite info.
+This tools will scan for ciphers and then will output the result together with the ciphers used & cipher status from ciphersuite info.
 
 ## Purposes
 To do the validation for <br/>
